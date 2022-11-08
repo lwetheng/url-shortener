@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/5bc12c87-743d-44c0-99cc-52700e170fe2/AppServices/subscriptions/5bc12c87-743d-44c0-99cc-52700e170fe2/resourceGroups/lwetheng-url-shortener-rg/providers/Microsoft.Web/sites/lwetheng-url-shortener",
+    "appService.deploySubpath": "."
+}
